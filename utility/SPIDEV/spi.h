@@ -28,7 +28,7 @@
 
 #ifndef RF24_SPIDEV_SPEED
 /* 8MHz as default */
-#define RF24_SPIDEV_SPEED 8000000
+#define RF24_SPIDEV_SPEED 1000000
 #endif
 
 /** Specific excpetion for SPI errors */
